@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'week8_mobile',
+  appName: 'Memories',
   webDir: 'build',
   bundledWebRuntime: false
 };
