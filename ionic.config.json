@@ -1,0 +1,7 @@
+{
+  "name": "week8_mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
